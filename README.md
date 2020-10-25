@@ -23,9 +23,7 @@ https://raw.githubusercontent.com/APCLab/jieba-tw/master/jieba/dict.txt
 
 ### Word Cloud 文字雲視覺化圖形
 線上版文字雲
-[https://wordcloud.timdream.org/#wikipedia:Cloud](線上版文字雲
-https://wordcloud.timdream.org/#wikipedia:Cloud
-)
+> [https://wordcloud.timdream.org/#wikipedia:Cloud](https://wordcloud.timdream.org/#wikipedia:Cloud)
 
 ## 執行畫面
 

@@ -29,7 +29,7 @@ https://wordcloud.timdream.org/#wikipedia:Cloud
 
 ## 執行畫面
 
-https://repl.it/join/nwbygksi-wastu01
+https://wagame.coderbridge.io/2020/10/25/python-jieba/
 
 
 

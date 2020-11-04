@@ -27,7 +27,6 @@ https://raw.githubusercontent.com/APCLab/jieba-tw/master/jieba/dict.txt
 
 ## 執行畫面
 
-https://index.coderbridge.io/2020/10/25/python-jieba/
-
+> [Python-jieba-斷詞分析/](https://index.coderbridge.io/2020/10/25/python-jieba/)
 
 

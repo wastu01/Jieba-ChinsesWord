@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/APCLab/jieba-tw/master/jieba/dict.txt
 
 ## 執行畫面
 
-https://wagame.coderbridge.io/2020/10/25/python-jieba/
+https://index.coderbridge.io/2020/10/25/python-jieba/
 
 
 

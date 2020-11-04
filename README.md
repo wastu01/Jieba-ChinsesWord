@@ -27,6 +27,6 @@ https://raw.githubusercontent.com/APCLab/jieba-tw/master/jieba/dict.txt
 
 ## 執行畫面
 
-> [Python-jieba-斷詞分析/](https://index.coderbridge.io/2020/10/25/python-jieba/)
+> [Python-jieba-斷詞分析/](https://index.coderbridge.io/2020/10/25/python-jieba-%E6%96%B7%E8%A9%9E%E5%88%86%E6%9E%90/)
 
 
